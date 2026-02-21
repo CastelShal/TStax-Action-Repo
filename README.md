@@ -1,2 +1,2 @@
 # TStax-Action-Repo
-Action generation repo
+Action generation repo created for TStax assignment
